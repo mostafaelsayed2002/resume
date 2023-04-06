@@ -21,7 +21,7 @@ function  Image() {
                 <img  className="border border-4 border-gray-600 rounded-full w-[200px] m-4"  src={imgsrc}/>
 
                 <div className="flex flex-col mt-20 gap-2">
-                <h1 className="font-serif text-4xl text-center text-gray-600  ">Mostafa Elsayed</h1>
+                <h1 className="font-serif text-4xl text-center text-gray-600  ">Mostafa Elsayed Mohamed</h1>
                  <div>
                      <p className="font-extrabold  text-center text-gray-700 ">Computer Engineer</p>
                      <p className="font-extrabold  text-center text-gray-700 mb-5">Web Developer</p>
